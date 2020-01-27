@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e09f12a9b8fb5e44eb81fa499afbecc4, type: 3}
+  m_Name: Locomotion
+  m_EditorClassIdentifier: 
+  onFixed:
+  - {fileID: 11400000, guid: 660301c35f6939d45bf6e05df6672efd, type: 2}
+  - {fileID: 11400000, guid: 80977205fecf24140a489316afd2609d, type: 2}
+  onUpdate:
+  - {fileID: 11400000, guid: 660301c35f6939d45bf6e05df6672efd, type: 2}
+  - {fileID: 11400000, guid: ddb2cd2c39d836c4fa205a692f561441, type: 2}
+  - {fileID: 11400000, guid: e37fe188cfe7a7741971fb0322cec88a, type: 2}
+  - {fileID: 11400000, guid: e618295de6881f44e95fa26a6f6bd696, type: 2}
+  - {fileID: 11400000, guid: c04b7436b5ddd2d4fbabf21c182ae42a, type: 2}
+  - {fileID: 11400000, guid: 0b907c53c036ccc4796c22e6694872da, type: 2}
+  onEnter: []
+  onExit: []
+  idCount: 1
+  transitions: []

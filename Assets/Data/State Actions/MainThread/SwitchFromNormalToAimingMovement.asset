@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a610354bc0a0e6c4bbf4701e3ebf535d, type: 3}
+  m_Name: SwitchFromNormalToAimingMovement
+  m_EditorClassIdentifier: 
+  targetBool: {fileID: 11400000, guid: 5f3d325d9bc74d34caa03d248947d6cf, type: 2}
+  onFalseAction: {fileID: 11400000, guid: 3156aaf0e7710cb449d90551fa90af28, type: 2}
+  onTrueAction: {fileID: 11400000, guid: a7f9b310614e83448a67ed141666957a, type: 2}
